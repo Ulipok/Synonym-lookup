@@ -4,6 +4,8 @@ import keyboard
 import pyperclip
 import requests
 
+#1-2-3 trest
+
 def get_html(word):
     """
     INPUT: a string of the word for which you want synonyms
